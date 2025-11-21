@@ -1,0 +1,5 @@
+{
+  "name": "EarHRIR",
+  "description": "Generate personalized HRIR (Head-Related Impulse Response) files for HeSuVi by analyzing ear shape from photos using advanced Gemini Thinking models.",
+  "requestFramePermissions": []
+}
